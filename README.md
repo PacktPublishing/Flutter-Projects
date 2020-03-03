@@ -1,2 +1,2 @@
-# Google-Flutter-Projects
-Google Flutter Projects by Packt Publishing 
+# Flutter-Projects
+Flutter Projects by Packt Publishing 
