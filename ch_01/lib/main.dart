@@ -56,7 +56,7 @@ class HelloWorldApp extends StatelessWidget {
                               padding: EdgeInsets.all(15),
                               child: RaisedButton(
                                   child: Text('Contact Us'),
-                                  onPressed: () => contactUs(context)),
+                                  onPressed: () => print('Contact us')),
                             ),
                           ],
                         )))))));

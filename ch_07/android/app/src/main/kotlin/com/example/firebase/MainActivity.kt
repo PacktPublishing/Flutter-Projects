@@ -1,4 +1,4 @@
-package com.example.events_book
+package com.example.firebase
 
 import android.os.Bundle
 

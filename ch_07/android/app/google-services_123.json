@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393156820864",
+    "firebase_url": "https://events-b557a.firebaseio.com",
+    "project_id": "events-b557a",
+    "storage_bucket": "events-b557a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393156820864:android:645a22d979cfbf8812cb65",
+        "android_client_info": {
+          "package_name": "it.softwarehouse.events_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393156820864-otg01it0srp4276n9vusism6bjptdsvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh87QI65RCZbX_kGNwZpzqk4UF6bKhqSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393156820864-otg01it0srp4276n9vusism6bjptdsvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

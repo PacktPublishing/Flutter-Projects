@@ -1,32 +1,32 @@
+
+import './screens/launch_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:cloud_firestore/cloud_firestore.dart'; 
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    testData();
+    //testData();
     return MaterialApp(
       title: 'Events',
       theme: ThemeData(
-        primarySwatch: Colors.orange,
+        primarySwatch: Colors.pink,
       ),
-      home: Scaffold(),
+      home: LaunchScreen(),
     );
   }
 
-  Future testData() async {
+  Future testData() async{
     Firestore db = Firestore.instance;
-    var data = await db.collection('event_details').getDocuments();
-    if (data != null) {
-      var details = data.documents.toList();
-      details.forEach((d) {
-        print(d.documentID);
-       
-      });
-    }
-  }
+    var data = await db.collection('event_details').getDocuments(); 
+    var details = data.documents.toList();
+    details.forEach((d){
+      print(d.documentID);
+    });
+  } 
 
-} 
+}
+
+ 

@@ -13,6 +13,8 @@ class HttpHelper {
   Future<List> getUpcoming() async {
     final String upcoming = urlBase + urlUpcoming + urlKey + urlLanguage;
     http.Response result = await http.get(upcoming);
+    var myResult = await http.get(upcoming);
+
     if (result.statusCode == HttpStatus.ok) {
       final jsonResponse = json.decode(result.body);
       final moviesMap = jsonResponse['results'];

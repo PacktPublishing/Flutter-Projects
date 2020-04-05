@@ -8,9 +8,7 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.5.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-        // Add the line below:
-        classpath 'com.google.gms:google-services:4.3.2'    
-
+        classpath 'com.google.gms:google-services:4.3.2'
     }
 }
 
@@ -32,3 +30,5 @@ subprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+apply plugin: 'com.google.gms.google-services'  // Google Play services Gradle plugin

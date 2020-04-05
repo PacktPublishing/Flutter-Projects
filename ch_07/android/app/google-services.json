@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "393156820864",
-    "firebase_url": "https://events-b557a.firebaseio.com",
-    "project_id": "events-b557a",
-    "storage_bucket": "events-b557a.appspot.com"
+    "project_number": "169252249566",
+    "firebase_url": "https://eventi-d9b84.firebaseio.com",
+    "project_id": "eventi-d9b84",
+    "storage_bucket": "eventi-d9b84.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:393156820864:android:645a22d979cfbf8812cb65",
+        "mobilesdk_app_id": "1:169252249566:android:0f01e59e0be649b2e7474f",
         "android_client_info": {
-          "package_name": "it.softwarehouse.events_book"
+          "package_name": "it.softwarehouse.firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "393156820864-otg01it0srp4276n9vusism6bjptdsvk.apps.googleusercontent.com",
+          "client_id": "169252249566-1eua1rg019pbf3dud0vqdf3lc89u8312.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCh87QI65RCZbX_kGNwZpzqk4UF6bKhqSI"
+          "current_key": "AIzaSyANm3YJoK65q4s3FkjkxZeiUlN9eGScqE0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "393156820864-otg01it0srp4276n9vusism6bjptdsvk.apps.googleusercontent.com",
+              "client_id": "169252249566-1eua1rg019pbf3dud0vqdf3lc89u8312.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

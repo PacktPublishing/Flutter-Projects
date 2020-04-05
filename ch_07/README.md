@@ -1,4 +1,4 @@
-# events_book
+# firebase
 
 A new Flutter project.
 
