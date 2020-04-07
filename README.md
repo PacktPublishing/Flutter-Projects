@@ -44,11 +44,9 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-11     | Flutter 1.12.13                     | Windows, Mac OS X, and Linux (Any) |
-| 1-11     | Dart 2.7.2                          | Windows, Mac OS X, and Linux (Any) |
-| 1-11     | Git                                 | Windows, Mac OS X, and Linux (Any) |
-| 1-11     | Android Studio 3.6.1                | Windows, Mac OS X, and Linux (Any) |
-| 1-11     | VS Code                             | Windows, Mac OS X, and Linux (Any) |
+| 1-11     | Flutter 1.12.13, Dart 2.7.2, Git,   | Windows, Mac OS X, and Linux (Any) |
+|          |  Android Studio 3.6.1, VS Code      |                                    |
+
 
 
 ### Related products <Other books you may enjoy>
