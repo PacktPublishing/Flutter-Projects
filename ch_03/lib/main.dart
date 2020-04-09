@@ -98,15 +98,14 @@ class TimerHomePage extends StatelessWidget {
                       stream: timer.stream(),
                       builder: (BuildContext context, AsyncSnapshot snapshot) {
                         TimerModel timer = snapshot.data;
-                        return Expanded(
-                            child: CircularPercentIndicator(
+                        return child: CircularPercentIndicator(
                           radius: availableWidth / 2,
                           lineWidth: 10.0,
                           percent: (timer.percent == null) ? 1 : timer.percent,
                           center: Text( (timer.time == null) ? '00:00' : timer.time ,
-                              style: Theme.of(context).textTheme.headline4),
+                              style: Theme.of(context).textTheme.headline),
                           progressColor: Color(0xff009688),
-                        ));
+                        );
                       })),
               Row(
                 children: [
