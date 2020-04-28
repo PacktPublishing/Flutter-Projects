@@ -98,7 +98,7 @@ class TimerHomePage extends StatelessWidget {
                       stream: timer.stream(),
                       builder: (BuildContext context, AsyncSnapshot snapshot) {
                         TimerModel timer = snapshot.data;
-                        return Expanded(
+                        return Container(
                             child: CircularPercentIndicator(
                           radius: availableWidth / 2,
                           lineWidth: 10.0,
