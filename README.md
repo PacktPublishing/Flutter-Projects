@@ -1,6 +1,6 @@
 # Flutter Projects
 
-<a href="https://www.packtpub.com/in/mobile/flutter-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838647773"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838647773-original.jpeg" alt="Flutter Projects" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/in/mobile/flutter-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838647773"><img src="https://static.packt-cdn.com/products/9781838647773/cover/smaller" alt="Flutter Projects" height="256px" align="right"></a>
 
 This is the code repository for [Flutter Projects](https://www.packtpub.com/in/mobile/flutter-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838647773), published by Packt.
 
