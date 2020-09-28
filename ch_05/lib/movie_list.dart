@@ -78,7 +78,7 @@ class _MovieListState extends State<MovieList> {
                     ),
                     title: Text(movies[position].title),
                     subtitle: Text('Released: ' +
-                        movies[position].releaseDate +
+                        movies[position].releaseDate.toString() +
                         ' - Vote: ' +
                         movies[position].voteAverage.toString()),
                   ));
