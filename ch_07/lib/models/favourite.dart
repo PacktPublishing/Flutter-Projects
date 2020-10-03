@@ -10,8 +10,8 @@ class Favourite {
 
   Favourite.map(DocumentSnapshot document) {
     this._id = document.documentID;
-    this._eventId = document.data['eventId'];
-    this._userId = document.data['userId'];
+    this._eventId = document.data()['eventId'];
+    this._userId = document.data()['userId'];
   }
 
   String get eventId => _eventId;
