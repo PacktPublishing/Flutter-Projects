@@ -48,6 +48,9 @@ With the following software and hardware list you can run all code files present
 |          |  Android Studio 3.6.1, VS Code      |                                    |
 
 
+## Errata
+* Page 25, Section: Using getters and setters (code snippet line 5 and 6): **clark.age = 30;** _should be_ **clark_age = 30;** and **print ('${clark.name} ${clark.surname} ${clark.age}');** _should be_ **print ('${clark.name} ${clark.surname} ${clark_age}');**
+
 
 ### Related products <Other books you may enjoy>
 * iOS 13 Programming for Beginners - Fourth Edition [[Packt]](https://www.packtpub.com/in/mobile/ios-13-programming-for-beginners-fourth-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838821906) [[Amazon]](https://www.amazon.com/dp/1838821902)
@@ -59,4 +62,4 @@ With the following software and hardware list you can run all code files present
 wrote his first program when he was 12: it was a text-based fantasy game for the Commodore 64. A few years later, he is now a trainer (MCT), author, speaker, passionate software architect, and always a proud coder. He has published several courses on Dart and Flutter on Pluralsight. His mission is to help developers achieve more through training and mentoring.
 
 ### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you 
