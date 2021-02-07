@@ -13,8 +13,8 @@ class Pong extends StatefulWidget {
 
 class _PongState extends State<Pong> with SingleTickerProviderStateMixin {
 
-  double width;
-  double height;
+  double width = 0;
+  double height = 0;
   double posX;
   double posY;
   double batWidth;
