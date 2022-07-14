@@ -55,7 +55,7 @@ With the following software and hardware list you can run all code files present
 ### Related products <Other books you may enjoy>
 * iOS 13 Programming for Beginners - Fourth Edition [[Packt]](https://www.packtpub.com/in/mobile/ios-13-programming-for-beginners-fourth-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838821906) [[Amazon]](https://www.amazon.com/dp/1838821902)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/in/mobile/mastering-xamarin-forms-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839213380) [[Amazon]](https://www.amazon.com/dp/1839213388)
+* Mastering Xamarin.Forms - Third Edition [[Packt]](https://www.packtpub.com/in/mobile/mastering-xamarin-forms-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839213380) [[Amazon]](https://www.amazon.com/dp/1839213388)
 
 ## Get to Know the Author
 **Simone Alessandria**
