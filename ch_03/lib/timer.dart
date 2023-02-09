@@ -8,6 +8,7 @@ class CountDownTimer {
   Timer timer;
   Duration _time;
   Duration _fullTime;
+  Duration _stoppedTime;
   int work = 30;
   int shortBreak = 5;
   int longBreak = 20;
@@ -33,9 +34,12 @@ class CountDownTimer {
         if (_time.inSeconds <= 0) {
           _isActive = false;
         }
-      }
+      _stoppedTime = _time;
       time = returnTime(_time);
       return TimerModel(time, _radius);
+      } else {
+        return TimerModel(returnTime(_stoppedTime), _radius);
+      }
     });
   }
 
