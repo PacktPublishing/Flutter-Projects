@@ -5,7 +5,7 @@
 
 <a href="https://www.packtpub.com/in/mobile/flutter-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838647773"><img src="https://static.packt-cdn.com/products/9781838647773/cover/smaller" alt="Flutter Projects" height="256px" align="right"></a>
 
-This is the code repository for [Flutter Projects](https://www.packtpub.com/in/mobile/flutter-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838647773), published by Packt.
+This is the code repository for Flutter Projects, published by Packt.
 
 **A practical, project-based guide to building real-world cross-platform mobile applications and games**
 
