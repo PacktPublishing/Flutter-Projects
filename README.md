@@ -70,3 +70,4 @@ wrote his first program when he was 12: it was a text-based fantasy game for the
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
 <p align="center"> <a href="https://packt.link/free-ebook/9781838647773">https://packt.link/free-ebook/9781838647773 </a> </p>
+<!-- Some code might not work because of google continously updating and releasing versions of dart/flutter.  -->
